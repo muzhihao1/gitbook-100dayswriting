@@ -1,7 +1,8 @@
 # Table of contents
 
-* [No.1 0906 为什么读书总是记不住？](README.md)
-* [No.2 0908什么是教育？](untitled.md)
+* [前言](README.md)
+* [No.1 0906 为什么读书总是记不住？](no.1-0906-wei-shen-me-du-shu-zong-shi-ji-bu-zhu.md)
+* [No.2 0908什么是教育？](no.2-0908-shen-me-shi-jiao-yu.md)
 * [No.3 0909 如何持续行动](no.3-0909-ru-he-chi-xu-hang-dong.md)
 * [No.4 0910 临床医学专业规划](no.4-0910-lin-chuang-yi-xue-zhuan-ye-gui-hua.md)
 * [No.5 0911 我的医学英语学习经历](no.5-0911-wo-de-yi-xue-ying-yu-xue-xi-jing-li.md)
