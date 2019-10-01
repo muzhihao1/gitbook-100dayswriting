@@ -16,4 +16,6 @@
 * [No.13 你若想人怎样待你，你就要怎样待人 0923](no.13-ni-ruo-xiang-ren-zen-yang-dai-ni-ni-jiu-yao-zen-yang-dai-ren-0923.md)
 * [No.14 讲台需要一颗感恩的心 0926](no.14-jiang-tai-xu-yao-yi-ke-gan-en-de-xin-0926.md)
 * [No.15  会吃的人才会生活（一） 0928](no.15-hui-chi-de-ren-cai-hui-sheng-huo-yi-0928.md)
+* [No.16 持续行动的价值 0930](no.16-chi-xu-hang-dong-de-jia-zhi-0930.md)
+* [No.17 我不乐意 1001](no.17-wo-bu-le-yi-1001.md)
 
