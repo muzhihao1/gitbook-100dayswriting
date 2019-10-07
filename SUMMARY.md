@@ -18,4 +18,7 @@
 * [No.15  会吃的人才会生活（一） 0928](no.15-hui-chi-de-ren-cai-hui-sheng-huo-yi-0928.md)
 * [No.16 持续行动的价值 0930](no.16-chi-xu-hang-dong-de-jia-zhi-0930.md)
 * [No.17 我不乐意 1001](no.17-wo-bu-le-yi-1001.md)
+* [No.18 少就是多 1002](no.18-shao-jiu-shi-duo-1002.md)
+* [No.19  他乡的童年-日本篇 1004](no.19-ta-xiang-de-tong-nian-ri-ben-pian-1004.md)
+* [No.21 强者思维和弱者思维 1007](no.21-qiang-zhe-si-wei-he-ruo-zhe-si-wei-1007.md)
 
