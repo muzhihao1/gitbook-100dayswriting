@@ -21,4 +21,9 @@
 * [No.18 少就是多 1002](no.18-shao-jiu-shi-duo-1002.md)
 * [No.19  他乡的童年-日本篇 1004](no.19-ta-xiang-de-tong-nian-ri-ben-pian-1004.md)
 * [No.21 强者思维和弱者思维 1007](no.21-qiang-zhe-si-wei-he-ruo-zhe-si-wei-1007.md)
+* [No.22 慕课会议心得 1012](no.22-mu-ke-hui-yi-xin-de-1012.md)
+* [No.23 突然的成长 1016](no.23-tu-ran-de-cheng-chang-1016.md)
+* [No.24  功利主义介绍和批判 1018](no.24-gong-li-zhu-yi-jie-shao-he-pi-pan-1018.md)
+* [No.25 凡事感恩 1019](no.25-fan-shi-gan-en-1019.md)
+* [No.26 写作目标重申1020](no.26-xie-zuo-mu-biao-zhong-shen-1020.md)
 
