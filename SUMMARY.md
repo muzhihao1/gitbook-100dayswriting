@@ -28,4 +28,7 @@
 * [No.26 写作目标重申1020](no.26-xie-zuo-mu-biao-zhong-shen-1020.md)
 * [No.27 当恐惧来临 1021](no.27-dang-kong-ju-lai-lin-1021.md)
 * [No.28 若有人跟从我 1025](no.28-ruo-you-ren-gen-cong-wo-1025.md)
+* [No.29 你跟从我吧 1028](no.29-ni-gen-cong-wo-ba-1028.md)
+* [No.30 苏格拉底之死 1030-31](no.30-su-ge-la-di-zhi-si-103031.md)
+* [No.33 咖啡真的提神吗 1114](no.33-ga-fei-zhen-de-ti-shen-ma-1114.md)
 
