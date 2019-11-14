@@ -26,4 +26,6 @@
 * [No.24  功利主义介绍和批判 1018](no.24-gong-li-zhu-yi-jie-shao-he-pi-pan-1018.md)
 * [No.25 凡事感恩 1019](no.25-fan-shi-gan-en-1019.md)
 * [No.26 写作目标重申1020](no.26-xie-zuo-mu-biao-zhong-shen-1020.md)
+* [No.27 当恐惧来临 1021](no.27-dang-kong-ju-lai-lin-1021.md)
+* [No.28 若有人跟从我 1025](no.28-ruo-you-ren-gen-cong-wo-1025.md)
 
